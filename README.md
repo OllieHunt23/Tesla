@@ -1,5 +1,5 @@
 # Tesla 
 ### Tesla EV
 #### Members of the Dev Team 
-##### Me
+- Ollie Hunt
 This is about Tesla
