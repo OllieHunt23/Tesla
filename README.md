@@ -12,6 +12,7 @@
 ### My Design Process
 
 - Layout
+   * CSS Grid with options for multiple areas for images or content
 - Colour
 - Font(s)
 - Navigation (Site Map)
