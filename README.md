@@ -11,8 +11,8 @@
 
 ### My Design Process
 
--Layout
--Colour
--Font(s)
--Navigation (Site Map)
--Final Edits
+- Layout
+- Colour
+- Font(s)
+- Navigation (Site Map)
+- Final Edits
