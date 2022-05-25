@@ -16,7 +16,7 @@
 - Colour
 * The colours are generated from colour in my images and videos
 * They inform the colour design process
-* I Used this [**Website**] (https://html-color-codes.info/colors-from-image/) To get my colours
+* I Used this [**Website**](https://html-color-codes.info/colors-from-image/) To get my colours
 - Font(s)
 - Navigation (Site Map)
 - Final Edits
