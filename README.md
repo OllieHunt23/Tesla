@@ -20,8 +20,8 @@ Oliver James Hunt
 ### My Design Process
    
 - Colour
-   * The colours are generated from colour in my images and videos
-   * They inform the colour design process
+   * The colours are generated from colour in my images and videos.
+   * The colours i use on my home page are taken from my background image.
    * I Used this [**Website**](https://html-color-codes.info/colors-from-image/) To get my colours
 - Font(s)
 - Navigation (Site Map)
