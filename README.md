@@ -27,4 +27,4 @@ Oliver James Hunt
 - Navigation (Site Map)
 - Final Edits
 - Layout
-* CSS Grid with options for multiple areas for images or content
+   * CSS Grid with options for multiple areas for images or content
