@@ -18,9 +18,7 @@ Oliver James Hunt
  The user has been given examples of all the cars in teslas range as well as tesla's semitruck and powerwall.
 
 ### My Design Process
-
-- Layout
-   * CSS Grid with options for multiple areas for images or content
+   
 - Colour
    * The colours are generated from colour in my images and videos
    * They inform the colour design process
@@ -28,3 +26,5 @@ Oliver James Hunt
 - Font(s)
 - Navigation (Site Map)
 - Final Edits
+- Layout
+* CSS Grid with options for multiple areas for images or content
