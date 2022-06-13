@@ -48,3 +48,5 @@ Oliver James Hunt
 - Works Well in Chrome
 - Works well in Edge
 - Works well in Firefox
+                       
+- Navigation looks nice- Tom Collier
