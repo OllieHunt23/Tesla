@@ -37,6 +37,8 @@ Oliver James Hunt
 - Final Edits
 - Layout
    * CSS Grid with options for multiple areas for images or content
+
+
 Runs Well in Chrome
 Runs well in Edge
 Runs well in Firefox
