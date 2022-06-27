@@ -37,6 +37,12 @@ Oliver James Hunt
 - Final Edits
 - Layout
    * CSS Grid with options for multiple areas for images or content
+Runs Well in Chrome
+Runs well in Edge
+Runs well in Firefox
+
+
+"Navigation looks nice" - Tom Collier
 
 
 
@@ -45,13 +51,5 @@ Oliver James Hunt
 <a href="task"><image src="https://github.com/OllieHunt23/Tesla/blob/main/images/Site_SS/Screenshot%202022-06-07%20093909.png?raw=true" title="The Task" width=950>
 <a href="task"><image src="https://github.com/OllieHunt23/Tesla/blob/main/images/Site_SS/Screenshot%202022-06-07%20093950.png?raw=true" title="The Task" width=950> 
     
-![GitHub](/images/Site_SS/Screenshot 202022-06-01 20110856.png)
- 
- 
- 
- 
-Runs Well in Chrome
-Runs well in Edge
-Runs well in Firefox
                        
-"Navigation looks nice" - Tom Collier
+
