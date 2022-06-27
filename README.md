@@ -39,9 +39,9 @@ Oliver James Hunt
    * CSS Grid with options for multiple areas for images or content
 
 
-Runs Well in Chrome
-Runs well in Edge
-Runs well in Firefox
+- Runs Well in Chrome
+- Runs well in Edge
+- Runs well in Firefox
 
 
 "Navigation looks nice" - Tom Collier
